@@ -21,4 +21,6 @@ Undersampling was performed using RandomUnderSampler, and Oversampling was perfo
 
 __Please find the .ipynb file for the implementations__
 
+If you are referrering or using this repository, consider citing. Happy coding :)
+
 
